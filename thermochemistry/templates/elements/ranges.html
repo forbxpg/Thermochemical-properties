@@ -1,0 +1,13 @@
+{% for obj in ranges %}
+    <h1>{{ obj.Tmin }} {{ obj.Tmax }}</h1>
+    <h1>{{ obj.element }}</h1>
+    <h1>{{ obj.element.molar_mass }}</h1>
+    <h3>{{ obj.coefficients.a }}</h3>
+    <h3>{{ obj.coefficients.b }}</h3>
+    <h3>{{ obj.coefficients.c }}</h3>
+    <h3>{{ obj.coefficients.d }}</h3>
+    <h3>{{ obj.coefficients.e }}</h3>
+    <h3>{{ obj.coefficients.f }}</h3>
+    <h3>{{ obj.coefficients.g }}</h3>
+    <h3>{{ obj.coefficients.h }}</h3>
+{% endfor %}
