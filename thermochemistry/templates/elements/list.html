@@ -1,5 +1,0 @@
-{% for obj in object_list %}
-
-    <p><a href="{% url 'elements:detail' obj.id %}">{{ obj.name }} {{ obj.molar_mass }}</p>
-    <h1>{{ obj.state }}</h1>
-{% endfor %}
