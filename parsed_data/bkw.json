@@ -1,0 +1,222 @@
+{
+    "constants": {
+        "alpha": 0.54,
+        "beta": 0.181,
+        "kappa": 0.01415,
+        "theta": 400.0
+    },
+    "substances": [
+        {
+            "name": "CH4",
+            "kappa_i": 528.0
+        },
+        {
+            "name": "CO",
+            "kappa_i": 390.0
+        },
+        {
+            "name": "CO2",
+            "kappa_i": 600.0
+        },
+        {
+            "name": "H2",
+            "kappa_i": 80.0
+        },
+        {
+            "name": "H2O",
+            "kappa_i": 250.0
+        },
+        {
+            "name": "He",
+            "kappa_i": 100.0
+        },
+        {
+            "name": "N2",
+            "kappa_i": 380.0
+        },
+        {
+            "name": "NO",
+            "kappa_i": 386.0
+        },
+        {
+            "name": "O2",
+            "kappa_i": 350.0
+        },
+        {
+            "name": "Al",
+            "kappa_i": 350.0
+        },
+        {
+            "name": "AlCl3",
+            "kappa_i": 2600.0
+        },
+        {
+            "name": "AlO",
+            "kappa_i": 800.0
+        },
+        {
+            "name": "Al2O",
+            "kappa_i": 1300.0
+        },
+        {
+            "name": "Al2O2",
+            "kappa_i": 1800.0
+        },
+        {
+            "name": "Al2O3",
+            "kappa_i": 1350.0
+        },
+        {
+            "name": "C",
+            "kappa_i": 180.0
+        },
+        {
+            "name": "C2",
+            "kappa_i": 380.0
+        },
+        {
+            "name": "C5",
+            "kappa_i": 750.0
+        },
+        {
+            "name": "CCl4",
+            "kappa_i": 2000.0
+        },
+        {
+            "name": "CF2",
+            "kappa_i": 1330.0
+        },
+        {
+            "name": "CF3",
+            "kappa_i": 1330.0
+        },
+        {
+            "name": "CF4",
+            "kappa_i": 1330.0
+        },
+        {
+            "name": "CF3H",
+            "kappa_i": 1920.0
+        },
+        {
+            "name": "CF2H2",
+            "kappa_i": 1330.0
+        },
+        {
+            "name": "CFH3",
+            "kappa_i": 1920.0
+        },
+        {
+            "name": "CF2O",
+            "kappa_i": 1330.0
+        },
+        {
+            "name": "CH",
+            "kappa_i": 472.0
+        },
+        {
+            "name": "CH2",
+            "kappa_i": 520.0
+        },
+        {
+            "name": "CH3",
+            "kappa_i": 520.0
+        },
+        {
+            "name": "C2H2",
+            "kappa_i": 1013.0
+        },
+        {
+            "name": "C2H4",
+            "kappa_i": 1100.0
+        },
+        {
+            "name": "C4H10",
+            "kappa_i": 6625.0
+        },
+        {
+            "name": "CH2O",
+            "kappa_i": 815.0
+        },
+        {
+            "name": "CN",
+            "kappa_i": 486.0
+        },
+        {
+            "name": "CS2",
+            "kappa_i": 1354.0
+        },
+        {
+            "name": "Cl2",
+            "kappa_i": 956.0
+        },
+        {
+            "name": "ClF",
+            "kappa_i": 610.0
+        },
+        {
+            "name": "FCl",
+            "kappa_i": 610.0
+        },
+        {
+            "name": "ClH",
+            "kappa_i": 637.0
+        },
+        {
+            "name": "HCl",
+            "kappa_i": 637.0
+        },
+        {
+            "name": "F",
+            "kappa_i": 108.0
+        },
+        {
+            "name": "F2",
+            "kappa_i": 387.0
+        },
+        {
+            "name": "HF",
+            "kappa_i": 389.0
+        },
+        {
+            "name": "OH",
+            "kappa_i": 413.0
+        },
+        {
+            "name": "H2S",
+            "kappa_i": 680.0
+        },
+        {
+            "name": "NH3",
+            "kappa_i": 476.0
+        },
+        {
+            "name": "N",
+            "kappa_i": 148.0
+        },
+        {
+            "name": "NO2",
+            "kappa_i": 650.0
+        },
+        {
+            "name": "N2O",
+            "kappa_i": 730.0
+        },
+        {
+            "name": "O",
+            "kappa_i": 120.0
+        },
+        {
+            "name": "SO",
+            "kappa_i": 584.0
+        },
+        {
+            "name": "SO2",
+            "kappa_i": 591.0
+        },
+        {
+            "name": "S",
+            "kappa_i": 180.0
+        }
+    ]
+}
